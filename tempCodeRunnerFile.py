@@ -1,0 +1,1 @@
+width = max(r[0][1] for r in horizontal)
